@@ -1325,6 +1325,10 @@ body {
     max-width: 960px;
   }
 
+  .show-menu {
+    display: none;
+  }
+
 
 
   /**
