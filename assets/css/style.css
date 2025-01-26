@@ -743,6 +743,11 @@ body {
   border-radius: 50%;
   margin-block: 25px 35px;
   animation: pulse 2s ease infinite;
+  transition: var(--transition-1);
+}
+
+.play-btn:hover {
+  transform: scale(1.1);
 }
 
 @keyframes pulse {
